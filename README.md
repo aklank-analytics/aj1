@@ -1,5 +1,5 @@
 # aj1
-Below are the step of case study :
+Below are the step performed.
 1)	Import all the required library 
 2)	Read all the csv file
 3)	Check for duplicates
